@@ -1,0 +1,30 @@
+_repo: Cairo-to-Kisumu-b-EgyptThe-SudanKenya-Colony_71651
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, Frank G. (Frank George)
+    alias: Carpenter, Frank George
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '56191'
+    url: http://www.gutenberg.org/2009/agents/56191
+    wikipedia: https://en.wikipedia.org/wiki/Frank_G._Carpenter
+description: ''
+gutenberg_issued: '2023-09-14'
+identifiers:
+  gutenberg: '71651'
+language: en
+pgterms:marc904: https://archive.org/details/cairotokisumu00carp
+pgterms:marc905: 20210409115359carpenter
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aGarden City :$bDoubleday, Page & Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cairo to Kisumu : $b Egypt—The Sudan—Kenya Colony'
+url: http://www.gutenberg.org/ebooks/71651
